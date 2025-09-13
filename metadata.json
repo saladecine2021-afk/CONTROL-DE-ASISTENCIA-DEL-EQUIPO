@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Control de Asistencia de Equipo de Fútbol",
+  "description": "Una aplicación web para gestionar y seguir la asistencia de un equipo de fútbol. Puedes añadir y eliminar jugadores, programar fechas para entrenamientos o partidos, y marcar la asistencia de cada jugador en fechas específicas. Todos los datos se guardan localmente en tu navegador.",
+  "requestFramePermissions": []
+}
